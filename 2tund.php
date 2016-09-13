@@ -33,3 +33,22 @@ echo "onne";
 
 
 ?>
+<br>
+
+
+<?php
+
+echo date("r");
+
+
+
+
+
+
+
+
+
+
+
+
+?>
